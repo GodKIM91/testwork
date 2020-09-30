@@ -28,3 +28,6 @@ Then (/I can create new topic$/) do
     @browser.find_element(xpath: "//input[@type='submit']").click
   end
 end
+
+#some comment
+#some
